@@ -36,7 +36,7 @@ TripletNet 기반 모델을 활용하여 거리 이미지를 비교하고, 유�
 - 거리 유사도 예시:
   | Anchor Image | Positive Image | Negative Image |
   |--------------|----------------|----------------|
-  | ![]() | ![]() | ![]() |
+  | ![Image](https://github.com/user-attachments/assets/ce6e2df5-8118-4cc9-a9fc-069606e6a77e) | ![Image](https://github.com/user-attachments/assets/a41ff1b8-ff16-49d6-9d0c-415c4c958dd0) |  ![Image](https://github.com/user-attachments/assets/18ecac2d-f876-456b-8c14-831dd67357fa)|
 - 향후 유사 환경 검색 서비스 또는 보행환경 개선 우선순위 분석 시스템에 적용 가능성을 제시함
 <br><br>
 
