@@ -19,7 +19,7 @@ TripletNet 기반 모델을 활용하여 거리 이미지를 비교하고, 유�
 <br><br>
 
 ## 🔍 모델 및 방법
-- **사용 기술** : Python, TensorFlow, scikit-learn, OpenCV 
+- **주요 기술** : Python, TensorFlow, ResNet50, Triplet Loss, OpenCV, Pandas 
 - **모델 구성** :
 ![img](https://github.com/user-attachments/assets/686f9316-9229-49d2-aa4a-f4a2a3aa0ffa)
   - 사전 학습된 ResNet50을 Backbone으로 사용
