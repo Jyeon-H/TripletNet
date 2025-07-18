@@ -12,7 +12,7 @@ ResNet 기반 TripletNet를 활용하여 거리 이미지 유사도 정량화 �
 <br><br>
 
 ## 🙋🏻‍♀️ 수행 역할
-- 전체 파이프라인 설계 및 단독 구현 (데이터 수집 -> 모델 학습 -> 성 평가)
+- 전체 파이프라인 설계 및 단독 구현 (데이터 수집 -> 모델 학습 -> 성능 평가)
 - ResNet 기반 Triplet Network 모델 구현
 - Triplet Loss 설계 및 margin에 따른 성능 비교
 - 정량 평가(Cosine Similarity)와 정성 평가(유사 이미지 결과 시각화)
