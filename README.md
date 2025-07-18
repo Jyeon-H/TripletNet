@@ -60,7 +60,7 @@ ResNet 기반 TripletNet를 활용하여 거리 이미지 유사도 정량화 �
   |---|---|---|---|
   |1.0|0.8446|0.9158|0.8447|
 - 유사한 거리 이미지 시각화 예시
-  | Anchor Image | Fisrt Similar | Second Similar |
+  | Test Image | Fisrt Similar | Second Similar |
   |--------------|----------------|----------------|
   | <img width="290" height="280" alt="image" src="https://github.com/user-attachments/assets/0928e5b8-a18f-40a4-ae80-463837a454f9" /> | <img width="290" height="280" alt="image" src="https://github.com/user-attachments/assets/bc46c716-04ce-4aa1-9b92-a1d8c8b49a2f" /> | <img width="290" height="280" alt="image" src="https://github.com/user-attachments/assets/548129b2-2912-4bb7-bd82-2ef702c86564" /> |
   |<img width="290" height="280" alt="image" src="https://github.com/user-attachments/assets/ba1190bc-6432-47c4-8703-87fa2e162900" />|<img width="290" height="280" alt="image" src="https://github.com/user-attachments/assets/ef7de523-12b6-4465-97ce-2b6ce7d5f3ce" /> | <img width="290" height="280" alt="image" src="https://github.com/user-attachments/assets/6dd28aa4-17c8-4cdb-b854-f6d7e6e70131" /> |
