@@ -27,7 +27,7 @@ ResNet 기반 TripletNet를 활용하여 거리 이미지 유사도 정량화 �
   |Range|Random extractor|Anchor+-5|Anchor+-30|
   |Example|65 score|60~70 score|0\~35 or 95\~100 score|
   |sample|<img width="235" height="247" alt="image" src="https://github.com/user-attachments/assets/bc91f698-65c3-47ec-bd7e-a6c346ed3fa9" />|<img width="236" height="247" alt="image" src="https://github.com/user-attachments/assets/0c03045c-6f53-4511-98ab-a61beeceb3ad" />|<img width="236" height="248" alt="image" src="https://github.com/user-attachments/assets/9fb5f399-8d76-43f2-8d31-2151590d60e1" />|
-- 본 프로젝트에 사용된 데이터는 사전 연구에서 수집되어 전달받은 자료로, 데이터 제공자의 요청에 따라 공개할 수 없습니다.
+- **출처** : 사전 연구에서 수집되어 전달받은 데이터로, 제공자의 요청에 따라 공개할 수 없습니다.
 <br><br>
 
 ## 🔍 모델 및 방법
